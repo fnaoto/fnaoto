@@ -6,8 +6,6 @@
 
 **Reference**
 
-<p>
-  <a href="https://qiita.com/fnaoto"><img src="https://qiita-image-store.s3.amazonaws.com/0/45617/015bd058-7ea0-e6a5-b9cb-36a4fb38e59c.png" height="50" alt="Qiita"></a>
-  <a href="https://www.wantedly.com/users/47203885"><img src="https://d1dlw0u96vqtxd.cloudfront.net/images/home/brand_assets/mark-wantedly@2x.png" height="50" alt="Wantedly"></a>
-  <a href="https://zenn.dev/fnaoto"><img src="https://zenn.dev/images/og-large.png" height="50" alt="zenn"></a>
-</p>
+<li><a href="https://qiita.com/fnaoto">Qiita</a></li>
+<li><a href="https://www.wantedly.com/users/47203885">Wantedly</a></li>
+<li><a href="https://zenn.dev/fnaoto">Zenn</a></li>
