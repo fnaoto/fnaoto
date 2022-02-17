@@ -7,5 +7,4 @@
 **Reference**
 
 <li><a href="https://qiita.com/fnaoto">Qiita</a></li>
-<li><a href="https://www.wantedly.com/users/47203885">Wantedly</a></li>
 <li><a href="https://zenn.dev/fnaoto">Zenn</a></li>
